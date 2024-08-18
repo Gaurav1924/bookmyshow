@@ -19,8 +19,3 @@ function AdminLayout() {
 }
 
 export default AdminLayout;
-
-// create movie
-// movielisting
-// delete movie
-// update movie
