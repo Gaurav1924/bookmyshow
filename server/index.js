@@ -35,7 +35,8 @@ app.use("/api/ejs", EjsRoutes);
 app.use("/api/theatre", TheatreRoutes);
 app.use("/api/booking", BookingRoutes);
 //running frontend on same port
-app.listen(8081, async () => {
+const port = process.env.PORT || 8081;
+app.listen(port, async () => {
   await dbConnect();
-  console.log("Server is Running at http://localhost:8081");
+  console.log("Server is Running at https://bookmyshow-server-omega.vercel.app/");
 });
