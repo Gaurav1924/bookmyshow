@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "set ESLINT_NO_DEV_ERRORS=true && react-scripts build",
+    "build": "set \"ESLINT_NO_DEV_ERRORS=true\" && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
@@ -41,7 +41,7 @@
       "last 1 safari version"
     ]
   },
-"homepage": "https://gaurav1924.github.io/Gaurav1924/bookmyshow",
+"homepage": "https://gaurav1924.github.io/bookmyshow",
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
     "gh-pages": "^6.1.1",
