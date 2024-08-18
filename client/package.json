@@ -41,7 +41,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/Gaurav1924/bookmyshow",
+"homepage": "https://gaurav1924.github.io/Gaurav1924/bookmyshow",
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
     "gh-pages": "^6.1.1",
