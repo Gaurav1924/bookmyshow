@@ -17,7 +17,6 @@
   ],
   "author": "Gaurav",
   "license": "ISC",
-  "homepage": "https://github.com/Gaurav1924/bookmyshow#readme",
   "devDependencies": {
     "express": "^4.19.2",
     "nodemon": "^3.1.3"
